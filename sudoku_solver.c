@@ -4,6 +4,10 @@
 #include <assert.h>
 #include <time.h>
 
+/*
+    Created by Aldo Manco Jr
+*/
+
 #define SIZE 9
 #define MINUS_INFINITE -2147483648
 
